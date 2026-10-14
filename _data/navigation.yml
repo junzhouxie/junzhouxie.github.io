@@ -1,0 +1,9 @@
+main:
+  - name: Homepage
+    link: /
+  - name: About Me
+    link: /about/
+  - name: News
+    link: /news/
+  - name: Publications
+    link: /publications/
