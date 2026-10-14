@@ -31,7 +31,7 @@ Welcome to Junzhou Xie's academic homepage! I am a master's student at Southeast
 
 **Junzhou Xie**, Haozhong Xiong, Xunyun Tian, Kaile Du, Tianchen Yu, Qiang Li, Wei Liu, Jiaming Liu, Ruihua Huang, Yang Shi, Guangcan Liu.
 
-[📄 Paper](https://arxiv.org/abs/2610.05010) / [💻 Code](https://github.com/junzhouxie/PortraitAes) / [🏠 Project Page](https://portraitaes.github.io/) / [📋 BibTeX](/bibtex/)
+[📄 Paper](https://arxiv.org/abs/2610.05010) / [💻 Code](https://github.com/junzhouxie/PortraitAes) / [🏠 Project Page](https://portraitaes.github.io/)
 
 **Highlights**
 - Propose an intent-conditioned structured portrait aesthetic assessment task.
@@ -52,7 +52,7 @@ Welcome to Junzhou Xie's academic homepage! I am a master's student at Southeast
 
 Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Guangcan Liu.
 
-[📄 Paper](https://www.sciencedirect.com/science/article/pii/S0925231226016905) / [📋 BibTeX](/bibtex/)
+[📄 Paper](https://www.sciencedirect.com/science/article/pii/S0925231226016905)
 
 **Highlights**
 - Address false-negative label drift in multi-label class-incremental learning (MLCIL).
@@ -73,7 +73,7 @@ Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Guangcan Liu.
 
 Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Wei Li, Yuyang Li, Guangcan Liu.
 
-[📄 Paper](https://www.sciencedirect.com/science/article/pii/S0031320326006229) / [📋 BibTeX](/bibtex/)
+[📄 Paper](https://www.sciencedirect.com/science/article/pii/S0031320326006229)
 
 **Highlights**
 - Introduce GCN to explicitly capture label correlations for MLCIL.
@@ -94,7 +94,7 @@ Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Wei Li, Yuyang Li, Gua
 
 Kaile Du, Zihan Ye, **Junzhou Xie**, Yixi Shen, Yuyang Li, Fuyuan Hu, Ling Shao, Guangcan Liu, Joost van de Weijer, Fan Lyu.
 
-[📄 Paper](https://arxiv.org/abs/2509.23335) / [📋 BibTeX](/bibtex/)
+[📄 Paper](https://arxiv.org/abs/2509.23335)
 
 **Highlights**
 - Identify representation entanglement and high false-positive rate in CLIP-based MLCIL.
@@ -115,7 +115,7 @@ Kaile Du, Zihan Ye, **Junzhou Xie**, Yixi Shen, Yuyang Li, Fuyuan Hu, Ling Shao,
 
 Kaile Du, Yifan Zhou, Fan Lyu, Yuyang Li, **Junzhou Xie**, Yixi Shen, Fuyuan Hu, Guangcan Liu.
 
-[📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33798) / [📋 BibTeX](/bibtex/)
+[📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33798)
 
 **Highlights**
 - Identify label-level and loss-level positive-negative imbalance in MLCIL.
